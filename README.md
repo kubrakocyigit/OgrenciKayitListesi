@@ -1,0 +1,2 @@
+# OgrenciKayitListesi
+OgrenciKayıtListesi
